@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-th td{
+th,td{
 	border:1px solid #ccc;
 	border-radius:5px;
 	padding:0.5rem;
